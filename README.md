@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Rock.
+### Hi there 👋, I'm Rock.
 Student & Developer  
 Language: `Go` `C#` `Python` `C++` `Java(just a little)`  
 
